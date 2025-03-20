@@ -1,9 +1,25 @@
-var n1 = 45;
-var n2 = 78;
+var a="10";
+var b=10;
 
-console.log("Sum of " + n1 + " and " + n2 + " = " + (n1 + n2))
+console.log(typeof b)
+console.log(typeof a)
 
-console.log(`Sum of ${n1} and ${n2} =  ${n1 + n2} `)
+
+
+
+
+
+
+
+
+
+
+
+
+
+// console.log("Sum of " + n1 + " and " + n2 + " = " + (n1 + n2))
+
+// console.log(`Sum of ${n1} and ${n2} =  ${n1 + n2} `)
 
 // console.log(n1-n2)
 // console.log(n1*n2)
